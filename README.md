@@ -1,6 +1,6 @@
 # core-code-from-scratch-readme
-
-<h1>Pizza</h1>
+<h1>Week 1</h1>
+<h2>Pizza</h2>
 
 <h2>Ingredientes</h2>
 •Masa<br>
@@ -66,7 +66,7 @@
 •En el segundo "All these chests have treasures in them" sabemos que es mentira ya que el cofre de enmedio no tiene tesoro.<br>
 •En el ultimo "Only one of these chests has treasures" al ser mentira podemos decir que más de un cofre tiene tesoro, por lo que ambos el cofre A y el B tienen tesoro.<br>
 
-
+<h1>Week 2</h1>
 
 
 
